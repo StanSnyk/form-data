@@ -40,7 +40,7 @@
     "node": ">= 6"
   },
   "dependencies": {
-    "asynckit": "^0.4.0",
+    "asynckit": "^0.5.0",
     "combined-stream": "^1.0.8",
     "es-set-tostringtag": "^2.1.0",
     "hasown": "^2.0.2",
